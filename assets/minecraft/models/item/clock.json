@@ -1,0 +1,50 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/clock"
+    },
+    "overrides" : [
+        {
+            "predicate": {
+                "custom_model_data": 727001
+            }, 
+            "model": "minecraft:item/core/nether"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 727002
+            }, 
+            "model": "minecraft:item/core/end"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 727003
+            }, 
+            "model": "minecraft:item/core/overworld"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 727004
+            }, 
+            "model": "minecraft:item/core/main"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 727005
+            }, 
+            "model": "minecraft:item/fakeblock"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 727006
+            }, 
+            "model": "minecraft:item/core/contradicting"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 727007
+            }, 
+            "model": "minecraft:item/core/dimensional"
+        }
+    ]
+}
