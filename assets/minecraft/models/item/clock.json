@@ -6,25 +6,25 @@
     "overrides" : [
         {
             "predicate": {
-                "custom_model_data": 727001
+                "custom_model_data": 767753911
             }, 
             "model": "minecraft:item/core/nether"
         },
         {
             "predicate": {
-                "custom_model_data": 727002
+                "custom_model_data": 1569964785
             }, 
             "model": "minecraft:item/core/end"
         },
         {
             "predicate": {
-                "custom_model_data": 727003
+                "custom_model_data": 1037618989
             }, 
             "model": "minecraft:item/core/overworld"
         },
         {
             "predicate": {
-                "custom_model_data": 727004
+                "custom_model_data": 438317117
             }, 
             "model": "minecraft:item/core/main"
         },
@@ -36,13 +36,13 @@
         },
         {
             "predicate": {
-                "custom_model_data": 727006
+                "custom_model_data": 1554305779
             }, 
             "model": "minecraft:item/core/contradicting"
         },
         {
             "predicate": {
-                "custom_model_data": 727007
+                "custom_model_data": 1437143821
             }, 
             "model": "minecraft:item/core/dimensional"
         }
